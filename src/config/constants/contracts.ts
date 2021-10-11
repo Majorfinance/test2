@@ -24,7 +24,7 @@ export default {
     97: '0x60935F36e4631F73f0f407e68642144e07aC7f5E',
   },
   bunnyFactory: {
-    56: '0xfa249Caa1D16f75fa159F7DFBAc0cC5EaB48CeFf',
+    56: '0xd8A2e9210384690cc8c8EFb606e99061E1290512',
     97: '0x707CBF373175fdB601D34eeBF2Cf665d08f01148',
   },
   claimRefund: {

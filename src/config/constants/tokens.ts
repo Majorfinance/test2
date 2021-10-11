@@ -31,6 +31,14 @@ export const mainnetTokens = {
     'PancakeSwap Token',
     'https://pancakeswap.finance/',
   ),
+  major: new Token(
+    MAINNET,
+    '0xA7820b735A7c72F219357A2C9574829F772f94c0',
+    18,
+    'MAJOR',
+    'MajorFinance Token',
+    'https://pancakeswap.finance/',
+  ),
   tlos: new Token(MAINNET, '0xb6C53431608E626AC81a9776ac3e999c5556717c', 18, 'TLOS', 'Telos', 'https://www.telos.net/'),
   beta: new Token(
     MAINNET,

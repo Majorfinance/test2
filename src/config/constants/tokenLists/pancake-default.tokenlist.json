@@ -59,6 +59,14 @@
       "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     },
     {
+      "name": "MajorFinance Token",
+      "symbol": "MAJOR",
+      "address": "0xA7820b735A7c72F219357A2C9574829F772f94c0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
       "name": "Venus",
       "symbol": "XVS",
       "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
